@@ -1,0 +1,2 @@
+Week_2_Fraud_Detection/data/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+Week_2_Fraud_Detection/models/*.pkl filter=lfs diff=lfs merge=lfs -text
